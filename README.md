@@ -5,3 +5,5 @@ Here's a coarse figure for the problem statement:
 
 <img src="ProblemStatement.png" alt="Problem statement" width="90%" height="90%">
 
+
+(This project was completed for the ME-840 Computational Fluid Dynamics course at Michigan State University in Spring 2024)

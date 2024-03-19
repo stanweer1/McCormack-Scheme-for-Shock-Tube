@@ -3,5 +3,5 @@ The repository holds python code for solving the shock tube compressible flow pr
 
 Here's a coarse figure for the problem statement:
 
-<img src="ProblemStatement.png" alt="Problem statement" width="50%" height="50%">
+<img src="ProblemStatement.png" alt="Problem statement" width="90%" height="90%">
 
